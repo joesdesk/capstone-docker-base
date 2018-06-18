@@ -1,2 +1,3 @@
-# shiny-on-docker-test
-Test to see if shiny apps can run with particular features on docker
+# capstone-docker-base
+
+Docker image containing an R shiny server with additional R and python packages
